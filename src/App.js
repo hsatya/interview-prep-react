@@ -1,9 +1,9 @@
-import Todos from "./components/02-Todo-App";
+import Calculator from "./components/08-Calculator";
 
 function App() {
   return (
     <div>
-      <Todos />
+      <Calculator />
     </div>
   );
 }

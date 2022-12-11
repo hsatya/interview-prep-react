@@ -1,0 +1,21 @@
+.container {
+  align-items: center;
+  text-align: center;
+}
+
+.input {
+  margin: 20px auto;
+  padding: 20px;
+  width: 20%;
+  height: 50%;
+  background-color: coral;
+  color: white;
+}
+
+.display {
+  margin: 20px auto;
+  padding: 20px;
+  width: 60%;
+  height: 50%;
+  background-color: aquamarine;
+}
