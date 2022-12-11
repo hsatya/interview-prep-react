@@ -1,9 +1,9 @@
-import ReduxEx from "./components/07-ReduxEx";
+import Todos from "./components/02-Todo-App";
 
 function App() {
   return (
     <div>
-      <ReduxEx />
+      <Todos />
     </div>
   );
 }

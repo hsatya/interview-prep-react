@@ -1,0 +1,12 @@
+.container {
+  align-items: center;
+  text-align: center;
+}
+
+label {
+  margin-right: 5px;
+}
+
+.form {
+  margin: 50px;
+}
