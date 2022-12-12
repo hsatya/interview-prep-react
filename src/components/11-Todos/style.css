@@ -1,0 +1,13 @@
+.container {
+  align-items: center;
+  text-align: center;
+}
+
+label {
+  margin-right: 10px;
+}
+
+table {
+  margin: 20px auto;
+  padding: 5px;
+}

@@ -1,0 +1,9 @@
+.container {
+  align-items: center;
+  text-align: center;
+}
+
+table {
+  margin: 0px auto;
+  border: 1px solid black;
+}
